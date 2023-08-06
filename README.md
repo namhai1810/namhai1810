@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namhai1810&label=Profile%20views&color=0e75b6&style=flat" alt="namhai1810" /> </p>
 
-- 🔭 My name is Nguyen Hai.I’m currently studying in PTIT, majoring in Artificial Intelligence. I am interested in the following topics: Deep Learning in NLP and Computer Vision. Reinforcement Learning.
+- 🔭 My name is Nguyen Hai.I’m currently studying in PTIT, majoring in Artificial Intelligence. I am interested in the following topics: Deep Learning in NLP,Computer Vision and Reinforcement Learning.
 
 - 👨‍💻 All of my projects are available at [https://github.com/namhai1810/](https://github.com/namhai1810/)
 
